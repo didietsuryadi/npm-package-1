@@ -1,10 +1,10 @@
-# my-auth
+# my-authenticate
 
 An simple authentication using hash-password and jsonwebtoken
 
 # install
 
-`$ npm install my-auth`
+`$ npm install my-authenticate`
 
 # Usage
 
@@ -17,7 +17,7 @@ An simple authentication using hash-password and jsonwebtoken
 # Example
 
 ```
-const myauth = require('my-auth');
+const myauth = require('my-authenticate');
 
 auth.hash("somepassword") //it will return sha1$f326e8ad$1$cb6515862974675a421cac0594a8627889c13956
 

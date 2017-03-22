@@ -1,5 +1,5 @@
 {
-  "name": "my-auth",
+  "name": "my-authenticate",
   "version": "0.1.0",
   "description": "simple authentication",
   "main": "index.js",
